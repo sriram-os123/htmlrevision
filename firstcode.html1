@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+<!--   <h1>exercise1code</h1> -->
+    <h1>My blogs</h1>
+    <h2>My blog post1</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima quos inventore, provident nemo sit at nam odio, ab fugiat impedit magni placeat explicabo suscipit non fugit aliquid repellat aperiam atque quisquam mollitia natus vero voluptatum.</p><br>
+    <h2>My blog post2</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo, deleniti dolor! Sunt fugiat dolores quae sit molestiae similique alias vitae nemo corrupti sed iusto, eveniet deleniti est necessitatibus nam possimus vel voluptatem unde consectetur temporibus.</p>
+</body>
+
+</html>
